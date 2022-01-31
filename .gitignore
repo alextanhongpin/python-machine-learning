@@ -1,2 +1,4 @@
 aclImdb/
 .ipynb_checkpoints
+*.csv
+*.sqlite
